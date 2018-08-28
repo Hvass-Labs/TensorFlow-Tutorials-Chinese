@@ -1,7 +1,7 @@
 # TensorFlow-Tutorials-Chinese
 TensorFlow中文教程
 
-GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/[中文]（https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese）
+GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/[中文](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese)
 
 原作者 [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
@@ -12,7 +12,7 @@ GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/
 * 这份教程适用于深度学习和TensorFlow的初学者。
 * 每个教程包含一个主题。
 * 提供了完整的源代码。
-* 这里有一个视频教程[YouTube video](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ) for each tutorial.
+* 包含一个视频教程[YouTube video](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ) for each tutorial.
 
 ## 教程
 
@@ -122,9 +122,9 @@ GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/
 
 ## 视频
 
-这份教程的视频资源[YouTube videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ).
+视频资源[YouTube videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ).
 
-## 淘汰的教程
+## 被淘汰的教程
 
 一些教程使用了PrettyTensor来创建神经网络的，但是PrettyTensor API现在已经被淘汰了。一些Notebooks也因此被废弃了，它们已经在上面被标记出来。
 所以我们建议你在TensorFlow中使用Keras API来创建神经网络。
@@ -132,11 +132,11 @@ GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/
 
 ## Forks
 
-请参阅[所选的forks列表](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/forks.md) 以便对这些教程进行社区修改。
+请参阅[forks](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/forks.md) 以便对这些教程进行社区修改。
 
 ## 下载
 
-一些Python Notebooks 使用的源码被放置在不同的文件夹下，这是为了能更方便的允许跨教程使用。
+一些Python Notebooks使用的源码被放置在不同的文件夹下，这是为了能更方便的允许跨教程使用。
 因此建议你从GitHub上下载整个仓库，而不是下载独立的Python NoteBooks。
 
 ### Git
@@ -156,7 +156,7 @@ GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/
 你也可以[下载](https://github.com/Hvass-Labs/TensorFlow-Tutorials/archive/master.zip)
 GitHub仓库中的内容的zip文件并且手动释放它。
 
-## 安置
+## 配置
 
 安装和运行TensorFlow的方法有很多。这章节描述了我是如何做到的。
 可能你希望通过不同的方式来完成，那么你可以自己去互联网上搜索指令。
@@ -164,9 +164,6 @@ GitHub仓库中的内容的zip文件并且手动释放它。
 如果你刚接触Python和Linux等。那么让它工作起来是很具有挑战性的
 并且你可能需要对各种错误消息进行网络搜索，等等。
 通过下面的练习可以让过程变得容易。
-If you are new to using Python and Linux, etc. then this may be challenging
-to get working and you may need to do internet searches for error-messages, etc.
-It will get easier with practice.
 
 ### Python版本大于3.5
 
@@ -190,7 +187,7 @@ It will get easier with practice.
 
     source activate tf
 
-### 需要程序包
+### 需要的程序包
 
 在这份教程中需要安装一些Python的程序包。这是清单
 [requirements.txt](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/requirements.txt)
