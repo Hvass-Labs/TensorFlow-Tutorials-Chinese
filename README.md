@@ -12,7 +12,7 @@ GitHub原始仓库:[英文](https://github.com/Hvass-Labs/TensorFlow-Tutorials)/
 * 这份教程适用于深度学习和TensorFlow的初学者。
 * 每个教程包含一个主题。
 * 提供了完整的源代码。
-* 包含一个视频教程[YouTube video](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ) for each tutorial.
+* 每个教程有对应的视频[YouTube video](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ).
 
 ## 教程
 
@@ -212,10 +212,10 @@ GitHub仓库中的内容的zip文件并且手动释放它。
 如果你不想在你的计算机上安装任何东西，你可以在网络上浏览，编辑和运行这些Notebooks通过
 [Google Colab](https://colab.research.google.com). 这是一个
 [YouTube 视频](https://www.youtube.com/watch?v=Hs6HI2YWchM) 解释如何使用。
-你点击"Google Colab"链接（在上面清单的每一个教程旁边）。
-你可以在Colab上浏览这个Notebook ，但是你需要登陆你的Google账号才能运行它。
-然后你需要在Notebook的顶部执行下面的命令，
-它会将仓库里的内容复制到你Colab上的工作目录中。
+
+点击"Google Colab"链接（在上面清单的每一个教程旁边），你可以在Colab上浏览这个Notebook ，但是你需要登陆你的Google账号才能运行它。
+
+然后你需要在Notebook的顶部执行下面的命令，它会将仓库里的内容复制到你Colab上的工作目录中。
 
     import os
     work_dir = "/content/TensorFlow-Tutorials/"
